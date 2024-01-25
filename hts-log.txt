@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 26 Jan 2024 00:01:20 at https://10web-site.ai/71/enhanced-bunny/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://10web-site.ai/71/enhanced-bunny/ -O1 "C:\website design\dkk_web_building" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:01:57	Error: 	"Bad Request" (400) at link https://metrics.10web-site.ai/gtm.js?id= (from https://10web-site.ai/71/enhanced-bunny/)
+00:02:13	Error: 	"Not Found" (404) at link https://10web-site.ai/71/enhanced-bunny/url/ (from https://10web-site.ai/71/enhanced-bunny/)
+00:02:16	Error: 	"Too Many Requests" (429) at link https://10web-site.ai/71/enhanced-bunny/contact/ (from https://10web-site.ai/71/enhanced-bunny/)
+00:02:22	Error: 	"Not Found" (404) at link https://10web-site.ai/71/enhanced-bunny/services/url/ (from https://10web-site.ai/71/enhanced-bunny/services/)
+00:02:22	Error: 	"Not Found" (404) at link https://10web-site.ai/71/enhanced-bunny/about/url/ (from https://10web-site.ai/71/enhanced-bunny/about/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 2 seconds : 132 links scanned, 126 files written (4966652 bytes overall) [1314400 bytes received at 21200 bytes/sec], 4593585 bytes transferred using HTTP compression in 124 files, ratio 15%, 27.0 requests per connection
+(5 errors, 0 warnings, 0 messages)
